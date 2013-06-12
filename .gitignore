@@ -1,0 +1,22 @@
+*.class
+*.iml
+*.iws
+*.DS_Store
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Project Files #
+.classpath
+.project
+.settings
+.idea/
+
+# Build Files #
+.gradle
+build
+out
+target
+lib
